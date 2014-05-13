@@ -439,16 +439,15 @@ background: linear-gradient(to bottom, #1a1b1a 0%, #3c3c3c 100%);
 
 ul
  {
- list-style-type: none;
- border:1px solid #00CCCC;
- display:inline ;
- padding: 0px;
- float left: 
+ padding: 2px;
  }
  ul li
  {
  background-repeat: no-repeat;
- background-position: 0px 5px; 
+ background-position: 2px 5px; 
  padding-left: 14px; 
+ list-style-type: none;
+ border:1px solid #00CCCC;
+ display:inline ;
  
  }
